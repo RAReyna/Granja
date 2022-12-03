@@ -22,7 +22,6 @@ public class Animal {
    }
    //para mostrar su trabjo
    public void trabajo(){
-       
-   }
+  }
    
 }
